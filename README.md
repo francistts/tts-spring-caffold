@@ -1,0 +1,2 @@
+# Spring boot/cloud scaffold
+
